@@ -1,0 +1,3 @@
+[submodule "tldr-pages"]
+	path = tldr-pages
+	url = git@github.com:tldr-pages/tldr.git
